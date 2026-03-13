@@ -2,7 +2,6 @@
 
 > 🤖 AI 驅動的智慧求職助理 — 協助您上傳履歷、搜尋職缺、分析配對分數、自動生成 HR 自我介紹信
 
-原始 Figma 設計：[Design AI Job Navigator Dashboard](https://www.figma.com/design/vByy387a0qrAB2xwGGIFoK/Design-AI-Job-Navigator-Dashboard)
 
 ---
 
@@ -216,4 +215,3 @@ npm run build
 
 ---
 
-*由 Figma 設計稿匯出並實作功能邏輯，技術架構由 AI 協助建置。*
